@@ -1,0 +1,21 @@
+{
+  "name": "node-conf",
+  "version": "0.0.0",
+  "description": "A configuration module",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SportZing/node-conf"
+  },
+  "keywords": [
+    "config"
+  ],
+  "author": "James Brumond",
+  "license": "MIT",
+  "dependencies": {
+    "merge-recursive": "0.0.0"
+  }
+}
