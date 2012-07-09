@@ -1,6 +1,6 @@
 {
   "name": "node-conf",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A configuration module",
   "main": "lib/index.js",
   "scripts": {
@@ -16,6 +16,6 @@
   "author": "James Brumond",
   "license": "MIT",
   "dependencies": {
-    "merge-recursive": "0.0.0"
+    "merge-recursive": "0.0.1"
   }
 }
